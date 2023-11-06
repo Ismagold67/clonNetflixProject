@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/styleLogin.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Projeto Réplica Netflix</title>
+</head>
+<body>
+    <!-- Container do Login -->
+    <div class="container-login z-index">
+        <div class="nave">
+            <!-- <span class="blur"></span> -->
+            <img class="nav_logo" src="assets/images/netflix.png" alt="logo">
+       </div> 
+        <h1 style="color: #fff;">Quem está assistindo?</h1>
+        <div class="profiles">
+            <div class="card-profile">
+                    <img src="assets/images/p8.png" alt="">
+                <p>User Bob</p>
+            </div>
+            <div class="card-profile">
+                    <img src="assets/images/p2.png" alt="">
+                <p>User Megan</p>
+            </div>
+            <div class="card-profile"> 
+                    <img src="assets/images/p3.png" alt="">
+                <p>User Charlie</p>
+            </div>
+            <div class="card-profile">
+                    <img src="assets/images/p4.png" alt="">
+                <p>User Jack</p>
+            </div>
+            <div class="card-profile">
+                <i class="fa-solid fa-circle-plus"></i>
+                <p>Adicionar perfil</p>
+            </div>
+            <div class="manager-profiles">
+                <a href="">Gerenciar Perfis</a>
+            </div>
+        </div>
+    </div>
+    <div class="backgroundVideo">
+        <video type="video/mp4" loop autoplay muted>
+            <source src="assets/video/video.mp4">
+        </video>
+    </div>
+    <!-- Container das séries -->
+
+    <!-- Parte reservada para o conteúdo da parte superior do streaming -->
+    <div class="nave pop-display-none">
+        <!-- <span class="blur"></span> -->
+        <img class="nav_logo" src="assets/images/netflix.png" alt="logo">
+        <div class="options-nav">
+            <ul>
+                <li>
+                    <a href="">Início</a>
+                </li>
+                <li>
+                    <a href="">Séries</a>
+                </li>
+                <li>
+                    <a href="">Filmes</a>
+                </li>
+                <li>
+                    <a href="">Bombando</a>
+                </li>
+                <li>
+                    <a href="">Minha Lista</a>
+                </li>
+                <li>
+                    <a href="">Navegar por Idiomas</a>
+                </li>
+            </ul>
+        </div>
+        <div class="icons">
+            <!-- ÍCONE DA LUPA DE PESQUISA -->
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <!-- ICONE DO SINO DE NOTIFICAÇÃO -->
+            <i class="fa-regular fa-bell"></i>
+            <img class="nav_avatar f" src="assets/images/p1.png" alt="avatar">
+            <!-- ÍCONE DA SETA PARA BAIXO -->
+            <i class="fa-solid fa-sort-down"></i>
+        </div>
+   </div> 
+
+   <header class="banner pop-display-none">
+       <div class="banner_contents">
+            <img src="assets/images/letraArmy-of-the-dead.png" alt="letreiro-army-of-the-dead">
+            <div class="banner_buttons">
+                <button class="banner_button">
+                    <i class="fa-solid fa-play">ㅤ</i>
+                    Assistir
+                </button>
+                <button class="banner_button b2">
+                    <i class="fa-solid fa-circle-info">ㅤ</i>
+                    Mais informações
+                </button>
+            </div>           
+       </div> 
+       <div class="video-army">
+            <video autoplay muted loop>
+                <source src="assets/video/army-of-the-dead.mp4">
+            </video>
+       </div>
+       <div class="banner--fadeBottom"></div>
+   </header>
+
+   <!-- Fim parte topo -->
+
+    <!-- Mostra as seis divs(card-series) com 6 cards de filmes/séries em cada uma das sections -->
+    <div class="contain-series pop-display-none">
+        <h3>Populares na Netflix</h3>
+        <div class="card-series">
+            <!-- Uma section que guarda as seis imagens das séries/filmes -->
+            <section>
+                <div class="midia">
+                    <img src="assets/images/b1.png" alt = "the-gray-man">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/b2.png" alt="rogue-agent">
+                </div>
+               <div class="midia">
+                 <img src="assets/images/b3.png" alt="top-boy">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/b4.png" alt="better-call-saul">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/b5.png" alt="king-of-stonks">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/b6.png" alt="trainwreck">
+                </div>
+            </section>
+        </div>
+        <br><br>
+        <h3>Em alta</h3>
+        <div class="card-series">
+            <section>
+                <div class="midia">
+                    <img src="assets/images/alta1.png" alt="the-most-hated-man-on-the-internet">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/alta2.png" alt="d.b.cooper">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/alta3.png" alt="the-holiday">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/alta4.png" alt="ozark">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/alta5.png" alt="anthony-bourdain">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/alta6.png" alt="mi3">
+                </div>
+            </section>
+        </div>
+        <br><br>
+        <h3>Minha lista</h3>
+        <div class="card-series">
+            <section>
+                <div class="midia">
+                    <img src="assets/images/lista1.png" alt="daredevil">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lista2.png" alt="the-iron-giant">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lista3.png" alt="joe-rogan">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lista4.png" alt="i-dont-feel">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lista5.png" alt="star-trek">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lista6.png" alt="black-mirror">
+                </div>
+            </section>
+        </div>
+        <br><br>
+        <h3>Lançamentos</h3>
+        <div class="card-series">
+            <section>
+                <div class="midia">
+                    <img src="assets/images/lanca.png" alt="gotham">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lanca2.png" alt="making-murder">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lanca3.png" alt="marco-polo">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lanca4.png" alt="girlboss">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lanca5.png" alt="into-the-wild">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/lanca6.jpg" alt="jurassic-world-fallen-kingdom">
+                </div>
+            </section>
+        </div>
+        <br><br>
+        <h3>Dicas para você</h3>
+        <div class="card-series">
+            <section>
+                <div class="midia">
+                    <img src="assets/images/dica1.png" alt="transformers-o-lado-oculto-da-lua">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/dica2.png" alt="alerta-vermelho">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/dica3.png" alt="breaking-bad">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/armyofthedeath.jpg" alt="army-of-the-death">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/dica5.png" alt="family-guy">
+                </div>
+                <div class="midia">
+                    <img src="assets/images/dica6.png" alt="mad-man">
+                </div>
+            </section>
+        </div>
+        <br><br>
+        <h3>Brasil: top 10 em filmes hoje</h3>
+        <div class="card-series-top">
+            <section>
+                <img src="assets/images/topb1.png" alt="">
+                <img src="assets/images/topb2.png" alt="">
+                <img src="assets/images/topb3.png" alt="">
+                <img src="assets/images/topb4.png" alt="">
+                <img src="assets/images/topb5.png" alt="">
+                <img src="assets/images/topb6.png" alt="">
+            </section>
+        </div>
+        <br><br>
+    </div>
+    <!-- script para manipulação da dom -->
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/conection.js"></script>
+</body>
+</html>

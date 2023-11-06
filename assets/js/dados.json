@@ -1,0 +1,184 @@
+{
+    "movies": [
+        {
+            "id": "assets/images/b1.png",
+            "name": "the-gray-man",
+            "sinopse": "O agente mais valioso da CIA, cuja identidade é desconhecida, descobre segredos da agência e desencadeia uma caçada global por assassinos libertados por seu ex-colega.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/BmllggGO4pM?si=YCSGuqdLDg5vie3s/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow=autoplay clipboard-write; encrypted-media; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/b2.png",
+            "name": "rogue-agent",
+            "sinopse": "A história extraordinária e arrepiante do vigarista de carreira Robert Freegard, que se disfarçou de agente do MI5 e enganou as pessoas para que se escondessem, e a mulher que se apaixonou por ele e o derrubou.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/0YCNAvdYJyI?si=sF2hMJFK9Uuy5EqE/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/b3.png",
+            "name": "top-boy",
+            "sinopse": "Dois violentos traficantes de droga regressam às implacáveis ruas de Londres, mas a sua busca por dinheiro e poder vê-se ameaçada por um jovem e determinado fura-vidas.",
+            "path": "<iframe width='280'src='https://www.youtube.com/embed/-sjzJhsmoas?si=h6fORkVh51Pj5THH/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/b4.png",
+            "name": "better-call-saul",
+            "sinopse": "Em Better Call Saul, o advogado de pequenas causas Jimmy McGill (Bob Odenkirk) precisa estabilizar sua situação financeira enquanto cuida do irmão que está passando por problemas de saúde mental.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/Qz3u06eXf0E?si=ksWKkhRPvRMK8jrG/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/b5.png",
+            "name": "king-of-stonks",
+            "sinopse": "Baseada em uma história real, Rei dos Stonks acompanha Felix Armand, um empresário megalomaníaco quer que sua empresa seja uma das maiores companhias de tecnologia do mundo.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/pNYTUawHADQ?si=fmozMQQW3dXFWTx5/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/b6.png",
+            "name": "trainwreck",
+            "sinopse": "Trainwreck: Woodstock '99, série em três episódios produzida pela Netflix, narra a inacreditável saga de erros do festival por meio de entrevistas com jornalistas, produtores (incluindo Michael Lang, criador do Woodstock original), gente que trabalhou no evento e alguns dos artistas que se apresentaram.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/Tm5uUzbUwR4?si=XJ3rbUKDHKbicmIc/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/alta1.png",
+            "name": "the-most-hated-man-on-the-internet",
+            "sinopse": "Decidida a retirar as fotografias da filha de um site de pornografia de vingança, uma mãe tenaz lança-se numa cruzada online para derrubar o cruel fundador da página.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/j5gjOPL4MIE?si=m1HRpZW1UnSIAQah/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/alta2.png",
+            "name": "d.b.cooper",
+            "sinopse": "Em 1971, um homem sequestrou um avião, saltou de paraquedas com o dinheiro do resgate e saiu impune. Décadas depois, sua identidade continua sendo um mistério.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/29i4ZpCxeJA?si=tLk4FPIxhTawMnrP/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/alta3.png",
+            "name": "the-holiday",
+            "sinopse": "Gail decide participar de um concurso musical do outro lado do país. Ele vai para Harmony Springs, Oklahoma. Duas semanas antes do show, ela segue o conselho de Jeremy, um faz-tudo, e monta seu próprio grupo com crianças locais para se apresentar na gala dos seus sonhos.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/diTTEBm1V00?si=xr063CrlmzerD_Cm/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/alta4.png",
+            "name": "ozark",
+            "sinopse": "Um consultor financeiro leva a família para um lago remoto para lavar quinhentos milhões de dólares e acalmar um traficante.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/99Yf1j6p9_Q?si=zQ4JIo8ThpPDlxdm/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/alta5.png",
+            "name": "anthony-bourdain",
+            "sinopse": "Este documentário narra a vida do ícone da culinária Anthony Bourdain, explorando a sua personalidade extravagante e o seu espírito aventureiro. ",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/Wo4X9QN3MM0?si=QFYWI-noyr4AJMiL/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/alta6.png",
+            "name": "mi3",
+            "sinopse": "O agente Ethan Hunt (Tom Cruise) está afastado do trabalho de campo para a IMF, trabalhando apenas como treinador de novos agentes. Ele agora leva uma vida tranquila com Julia (Michelle Monaghan), com quem pretende se casar e que nada sabe sobre seu verdadeiro trabalho.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/0ypddYNLvvQ?si=w4dIw2vx_qtdZ0XG/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lista1.png",
+            "name": "daredevil",
+            "sinopse": "Conheça Matt Murdock (Charlie Cox), um advogado que perdeu a visão em um acidente ainda criança. Enquanto de dia ele lida com as injustiças em sua profissão, à noite ele assume a identidade do super-herói Demolidor.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/IMC7H23-sMs?si=w10jjtMgnfX_wz9s/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lista2.png",
+            "name": "the-iron-giant",
+            "sinopse": "Em 1957, um robô alienígena gigante aterrissa perto da pequena cidade de Rockwell, Maine. Hogarth, um garoto de nove anos que estava explorando a área, encontra o robô e os dois ficam amigos.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/obLtyj8hfFk?si=sPGx1mLUh02QwZ9F/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lista3.png",
+            "name": "joe-rogan",
+            "sinopse": "Sem papas na língua, o humorista Joe Rogan discute cultura atual, luta profissional, leis da maconha, gatos, veganismo e mais neste especial de stand-up.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/deNLpgTMYjA?si=rLdIIw8DAJ2srWxg/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lista4.png",
+            "name": "i-dont-feel-at-home",
+            "sinopse": "A vida de uma tímida auxiliar de enfermagem ganha novo propósito quando ela e um vizinho resolvem encontrar os ladrões que roubaram sua casa.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/a891D5_bGY4?si=YgF3loyxQDscJgYb/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lista5.png",
+            "name": "star-trek",
+            "sinopse": "A viagem inaugural da terceira nave Enterprise está sob ameaça pelo cientista louco Soren e apenas uma pessoa pode detê-lo, mas ela está morta há 78 anos.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/KxVyLLHLmz4?si=KFreniEZbdm8JpMi/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lista6.png",
+            "name": "black-mirror",
+            "sinopse": "Black Mirror é uma série de televisão britânica antológica de ficção científica criada por Charlie Brooker e centrada em temas obscuros e satíricos que examinam a sociedade moderna, particularmente a respeito das consequências imprevistas das novas tecnologias.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/nYUS1cOiaJQ?si=OjJk9okMvcmOUZgc/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lanca.png",
+            "name": "gotham",
+            "sinopse": "Antes de Batman, a cidade de Gotham já existia. James Gordon (Ben McKenzie) é um detetive iniciante polícia. Corajoso, sincero e ansioso para mostrar serviço, o recém-promovido tem como missão solucionar o caso do assassinato dos bilionários Thomas e Martha Wayne, um dos casos mais complexos da cidade.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/LpYpn2Bx2Ug?si=33Q7EtEC6bKTyFSX/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lanca2.png",
+            "name": "making-murder",
+            "sinopse": "Filmado durante 13 anos, esse suspense acompanha a história real de dois homens acusados de um crime terrível que talvez eles não tenham cometido. Assista o quanto quiser. A temporada 1 desta série documental venceu quatro Emmys, incluindo o de Melhor Documentário ou Série de Não-Ficção.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/qxgbdYaR_KQ?si=virG_EqO6lhaFgSO/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lanca3.png",
+            "name": "marco-polo",
+            "sinopse": "Marco Polo é uma série de televisão dramática americana que fala sobre os primeiros anos de Marco Polo na corte de Cublai Cã, o grande cã do Império Mongol e fundador da Dinastia Iuã, que durou de 1271 a 1368. A série estreou na Netflix em 12 de Dezembro de 2014.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/Ait26d1RjmQ?si=xOKz6XKgteTon82t/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lanca4.png",
+            "name": "girlboss",
+            "sinopse": "Rebelde e arruinada, Sophia decide montar um negócio na Internet e aprende a ser chefe. Uma comédia inspirada na famosa autobiografia de Sophia Amoruso. Veja tudo o que quiser. Britt Robertson protagoniza esta série de comédia, da argumentista de 'Um Ritmo Perfeito', nomeada para um Emmy.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/UPBbVem06D4?si=4M2zIYs8G12vN3Gr/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lanca5.png",
+            "name": "into-the-wild",
+            "sinopse": "Hae Seong, interpretado por Yeo Jin Goo, desaparece depois de um misterioso acidente. Doze anos depois, ele reaparece subitamente. Ele agora tem 31 anos, mas ainda tem a aparência e personalidade de seus 19 anos, quando desapareceu",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/XZG1FzyB8DI?si=YzRXGcQTdtcC5zj8/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/lanca6.jpg",
+            "name": "jurassic-world-fallen-kingdom",
+            "sinopse": "Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/vn9mMeWcgoM?si=mM8zmgIeBAkIgars/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/dica1.png",
+            "name": "trandorms-dark-of-the-moon",
+            "sinopse": "Sam Witwicky e sua nova namorada, Carly, entram na briga quando os Decepticons renovam sua guerra contra os Autobots. Optimus Prime acredita que ressuscitar o antigo Transformer Sentinel Prime, ex-líder dos Autobots, pode levar à vitória. ",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/Rf3OcxIFbRE?si=h9UzYSy2N1ZKclEg/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/dica2.png",
+            "name": "alerta-vermelho",
+            "sinopse": "Um alerta vermelho da Interpol é emitido e o agente do FBI John Hartley assume o caso. Durante sua busca, ele se vê diante de um assalto ousado e é forçado a se aliar ao maior ladrão de arte da história, Nolan Booth, para capturar a ladra de arte mais procurada do mundo atualmente, Sarah Black.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/dVTAcGw6H9s?si=SqOdGWZxf1m_ZVLR/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/dica3.png",
+            "name": "breaking-bad",
+            "sinopse": "Um professor do secundário com cancro do pulmão terminal junta-se a um ex-aluno para fabricar e vender metanfetaminas como forma de garantir o futuro da sua família.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/XZ8daibM3AE?si=KVWZqB3kK1lz1X_o/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/armyofthedeath.jpg",
+            "name": "alanflix",
+            "sinopse": "O Começo da sua jornada como investidor. Eu te mostrarei uma estratégia de investimentos pronta apenas para você colocar em prática. No fim, te farei uma proposta irrecusável.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/VINTeZVDUpw?si=9IjS8xjnDTogceLq/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/dica5.png",
+            "name": "family-guy",
+            "sinopse": "'Family Guy' segue as aventuras do adorável imbecil Peter Griffin (Seth MacFarlane) e da sua hilariante e estranha família de classe média.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/Le1x2To-e6g?si=4mDcW8w-OqMykDej/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        },
+        {
+            "id": "assets/images/dica6.png",
+            "name": "mad-man",
+            "sinopse": "Em Mad Men, Don Draper (Jon Hamm) é um dos mais talentosos nomes da cena publicitária da Nova York dos anos 60.",
+            "path": "<iframe width='280' src='https://www.youtube.com/embed/qAxcYgPxS64?si=wj5nzm4ZMhrviFpm/?controls=0&autoplay=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' allowfullscreen></iframe>" 
+        }
+    ]
+}

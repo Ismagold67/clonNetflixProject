@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #141414;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+
+/* Barra de navegação, interface inicial */
+.nav_logo {
+    width: 100px; /* A logo será de 80 px */
+    object-fit: contain; /* Aqui o elemento que for substituida vai ter que se ajustar para 80px */
+    margin-left: 30px;
+}
+
+.nav_avatar {
+    width: 35px;  /* A logo será de 30px */
+    border-radius: 6px;
+    object-fit: contain; /* Aqui o elemento que for substituida vai ter que se ajustar para 30px */
+}
+
+.nave {
+    position:  fixed; /* Sempre fica no mesmo lugar */
+    top: 0; /* elemento grudado no topo  */
+    width: 100%; /* Ocupa 100% da largura disponivel */
+    display: flex; /* elementos flexiveis */
+    justify-content: space-between; /* Os elementos serão justificados no espaço maior possivel respeitando apenas as bordas elementos são jogados para cada canto da tela*/
+    padding: 10px; /* padding de 20 px do conteudo em todas as bordas */
+    z-index: 1; /* Fica acima de todos os outros elementos */
+    background-image: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.8) 0%,
+        rgba(0, 0, 0, 0.4) 30%,
+        rgba(0, 0, 0, 0.2) 50%,
+        rgba(20, 20, 20, 0.030) 100%
+    ) 
+}
+
+.nave .icons{
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.icons i{
+    font-size: 1.5em;
+    color: #fff;
+}
+.icons i, img {
+    cursor: pointer;
+}
+
+.options-nav{
+    width: 65%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.options-nav ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+.options-nav ul li a{
+    transition: .8s;
+    color: #f7f0f0;
+    font-weight: bold;
+}
+.options-nav ul li a:hover {
+    color: #ffffff;
+    transition: .8s;
+    text-shadow: 0 0 5px #fff;
+}
+.banner {
+    color: white; /* cor branca para os textos */
+    width: 100%;
+    height: 650px; /* altura de 700px */
+}
+/* configurar as margens, padding e altura da div banner */
+.banner_contents {
+    margin-left: 30px;
+    text-shadow: 2px 2px 2px black;
+    padding-top: 250px;
+    height: 100px;
+}
+.banner_contents img{
+    max-width: 35em;
+ }
+/* O titulo tera fonte 3x maior que as demais, peso de 800 e a distancia em relação aos botões  */
+.banner_title {
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+}
+/* Aqui ele faz com que a imagem va desaparecendo aos poucos com uma altura de 23rem, a imagem começa a escurecer, indo para outra imagem, que nesse caso e o preto.  */
+.banner--fadeBottom {
+    height: 27rem;
+    background-image: linear-gradient(180deg, transparent, rgb(27, 27, 23), #141414);   
+    margin-top: 320px;
+}
+
+/* configurando o botão */
+.banner_button {
+    cursor: pointer; /* Cursor apontador */
+    color: #141414; /* cor branca */
+    outline: none; /* sem sublinhado */
+    font-size: 17px; /*Altera o tamanho da fonte*/
+    font-weight: 700; /* negrito */
+    border-radius: 0.4vw; /* borda arredondada */
+    padding-left: 2rem; /* preenchimento a esquerda */
+    padding-right: 2rem; /* preenchimento direito */
+    margin-top: 0.5rem; /* margem em cima */
+    padding-top: 0.5rem; /* preenchimento em cima */
+    padding-bottom: 0.5rem; /* preenchimento em baixo */
+    background-color: #fff; /* cor de fundo dos botões */
+}           
+.b2{
+    background-color: #585252bc;
+    color: #fff;
+}
+.b2:hover{
+    background-color: #fff;
+}
+/* Quando selecionado o botão com o mouse, ele muda de cor com animação invertida */
+.banner_button:hover {
+    color: #000;
+    background-color: #e6e6e6;
+    transition: all 0.2s;
+}
+
+.banner .video-army{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+.video-army video{
+    width: 100%;
+}
+
+/* fim */
+
+
+/* Inicio container de series */
+.contain-series {
+    width: 95vw;
+}
+h3 {
+    color: #fff;
+}
+.card-series{
+    width: 100%;
+    display: flex;
+}
+.card-series section {
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+}
+.card-series section .midia{
+    width: 16.2%;
+    height: 100%;
+}
+.card-series img {
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.card-series img:hover {
+    transition: .8s;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.card-series-top {
+    width: 100%;
+    height: 25vh;
+    display: flex;
+}
+.ca-f{
+    color: #fff;
+    font-size: 10px;
+    margin-left: 10px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 6px;
+    transition: .8s;
+}
+.ca-f:hover{
+    background-color: #fff;
+    transition: .8s;
+    color: #000;
+}
+.card-series-top section{
+    display: flex;
+    width: 100%;
+    gap: 20px;
+}
+.card-series-top img{
+    width: 15.7%;
+    height: 100%;
+    transition: .5s;
+    border-radius: 5px;
+}
+.card-series-top img:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: .8s;
+    border: 1px solid #ffffff3b;
+}
+.pop-display-none{
+    display: none;
+}
+/* CARD DE APARIÇÃO APÓS O EVENTO DE PASSAR O MOUSE POR CIMA DO CARD */
+.card-video-after-mouseenter {
+    width: 280px;
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    background-color: #363636;
+    transition: .8s;
+    margin-left: -30px;
+    overflow: hidden;
+    position: static;
+    z-index: 1;
+}
+
+.card-video-after-mouseenter span{
+    width: 100%;
+    height: 70%;
+    border-radius: 10px;
+}
+
+.card-video-after-mouseenter p{
+    color: #fff;
+    text-align: justify;
+    padding: 10px;
+}
+
+.card-video-after-mouseenter:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: 2s;
+}
+/* ------------------------------------------------------------------ */
+/* diminuindo a largura do scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: #000;
+}
+/* colocando a cor vermelha da thumb do scrollbar e arredondando */
+::-webkit-scrollbar-thumb {
+    background-color: #ff0000;
+    border-radius: 20px;
+}
+
+/* Fim configurações conteiner series */
